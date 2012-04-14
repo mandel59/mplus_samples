@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'M+ 1p';
+  font-weight: 800;
+  src: /* local('M+ 1p heavy'), local('M+ 1p'), */
+       url('mplus-1p-heavy.ttf') format('truetype');
+}
