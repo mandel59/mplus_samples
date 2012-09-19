@@ -103,7 +103,7 @@ mark {
 
 .jp04 {
   font-feature-settings: "jp04" 1;
-  -moz-font-feature-settings: "jp04=1";
+  -moz-font-feature-settings: "jp04" 1;
   -webkit-font-feature-settings: "jp04" 1;
   -ms-font-feature-settings: "jp04" 1;
 }
@@ -111,7 +111,7 @@ mark {
 .vert {
   line-height: 1em;
   font-feature-settings: "vert" 1;
-  -moz-font-feature-settings: "vert=1";
+  -moz-font-feature-settings: "vert" 1;
   -webkit-font-feature-settings: "vert" 1;
   -ms-font-feature-settings: "vert" 1;
 }
