@@ -89,14 +89,14 @@ mark {
 
 .no_ccmp {
   font-feature-settings: "liga" 0, "ccmp" 0;
-  -moz-font-feature-settings: "liga=0,ccmp=0";
+  -moz-font-feature-settings: "liga" 0, "ccmp" 0;
   -webkit-font-feature-settings: "liga" 0, "ccmp" 0;
   -ms-font-feature-settings: "liga" 0, "ccmp" 0;
 }
 
 .ccmp {
   font-feature-settings: "liga" 1, "ccmp" 1;
-  -moz-font-feature-settings: "liga=1,ccmp=1";
+  -moz-font-feature-settings: "liga" 1, "ccmp" 1;
   -webkit-font-feature-settings: "liga" 1, "ccmp" 1;
   -ms-font-feature-settings: "liga" 1, "ccmp" 1;
 }
